@@ -1,0 +1,18 @@
+.box1{
+    width: 438px;
+    height: 577px;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    border-style: solid;
+    border-color:  black;
+    background-color: white;
+}
+
+.box2{
+    width: 330px;
+    height: 65px;
+    border-radius: 100px;
+    background-color: #E3A647;
+    border-style: solid;
+    border-color: #E3A647;
+}
